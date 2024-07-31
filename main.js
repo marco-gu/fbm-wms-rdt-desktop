@@ -85,7 +85,7 @@ function createWindow() {
         win.setTitle(title)
     })
 
-    mainWindow.loadURL('http://localhost:8080/#/')
+    mainWindow.loadURL('http://101.132.69.151:8089/#/')
 }
 
 app.whenReady().then(() => {
